@@ -13,11 +13,11 @@ Upload index.html and style.css
 
 The application shown below was deployed using GitHub Pages. The repository can be replicated by via fork, clone, and redeployment with GitHub Pages.
 
-link to repository !!!----------------------------------!!  put the gitub url 
+link to repository git@github.com:KittiyaLooknam/Kittiya-Portfolio-.git put the gitub url 
 
 #Usage
 
-The user can access by contacting the links deployed for instance the application: !!!__-____________  https: of github portolio 
+The user can access by contacting the links deployed for instance the application: https://github.com/KittiyaLooknam/Kittiya-Portfolio-.git
 
 
 #Credits 
