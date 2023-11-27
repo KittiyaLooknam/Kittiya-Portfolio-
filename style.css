@@ -2,16 +2,33 @@
     background-color:rgb(240, 223, 223);
 }
 
+nav {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    text-transform: uppercase;    
+
+}
+
 .container{
     max-width: 600px;
     margin: 0 auto;
     margin-top: 50px;
+    justify-content: right;
   
 }
 
-
 p.bio {
     text-align: center;
+}
+
+img.work {
+    border-radius: 30px;
+}
+
+img.work:hover {
+    transform: scale(1.2);
 }
 
 hr {
@@ -85,7 +102,9 @@ h5 {
 
 .work {
     margin-bottom: 20px;
+
 }
+
 
 .footer {
     text-align: center;
