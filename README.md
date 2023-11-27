@@ -9,6 +9,17 @@
 Includes about me, portfolio and contact navigation links as well as links to external resources, and Contact form which auto populates an email to the site author
 Responsive layout suitable for mobile and desktop browsers.
 
+![image](https://github.com/KittiyaLooknam/Kittiya-Portfolio-/assets/149645563/c172ff05-424a-47f0-b739-374ba6f2eea8)
+
+![image](https://github.com/KittiyaLooknam/Kittiya-Portfolio-/assets/149645563/a8d06051-ebe2-4dc5-94fc-d819c9f180de)
+
+
+![image](https://github.com/KittiyaLooknam/Kittiya-Portfolio-/assets/149645563/b1b878cd-95df-42c2-8c04-f606c6884ed6)
+
+
+
+
+
 
 # Installation
 
