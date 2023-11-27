@@ -1,14 +1,17 @@
 # Kittiya-Portfolio-
 
 # Description
+
  This is application personal portiflio. It was created using HTML,CSS and the font-awesome icon pack.
 
 #Features 
+
 They are inclouding about me, portfolio and contact navigation links as well as links to external resources, and Contact form which auto populates an email to the site author
 Responsive layout suitable for mobile and desktop browsers.
 
 
 #Installation
+
 Upload index.html and style.css 
 
 The application shown below was deployed using GitHub Pages. The repository can be replicated by via fork, clone, and redeployment with GitHub Pages.
